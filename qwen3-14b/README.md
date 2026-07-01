@@ -24,10 +24,7 @@ This directory contains the complete deployment guide for the Qwen3-14B model us
 
 1. Model Download
 2. Environment Setup
-3. vLLM Deployment
-4. PM2 Deployment
-5. API Testing
-6. Tool Calling
-7. Troubleshooting
+3. vLLM Startup
+
 
 
