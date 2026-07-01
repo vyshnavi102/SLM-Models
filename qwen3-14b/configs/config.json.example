@@ -1,0 +1,4 @@
+{
+    "vllm_url": "http://localhost:8005",
+    "vllm_model": "/opt/models/qwen3-14b"
+}
